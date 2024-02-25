@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12)
 
-project(simple-grpc
+project(hello-grpc
     LANGUAGES CXX
     VERSION 1.0.0
 )
