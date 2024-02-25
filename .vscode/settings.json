@@ -1,0 +1,10 @@
+{
+    "cmake.configureArgs": [
+        "-DUSE_GENERATED_PROTO=ON",
+    ],
+    "cmake.configureEnvironment": {
+        "CMAKE_TOOLCHAIN_FILE": "D:/vcpkg/scripts/buildsystems/vcpkg.cmake",
+        "VCPKG_TARGET_TRIPLET": "x64-windows-static",
+    },
+    "cmake.generator": "Ninja"
+}
